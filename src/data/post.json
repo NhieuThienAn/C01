@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Hướng Dẫn Lập Trình JavaScript Cơ Bản",
+    "content": "Nội dung của bài viết về JavaScript cơ bản...",
+    "topic": "Lập Trình",
+    "author": "Vũ Đình Bảo",
+    "date": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Cách Xây Dựng Ứng Dụng Web Với React",
+    "content": "Nội dung về xây dựng ứng dụng web bằng React...",
+    "topic": "Front-end Development",
+    "author": "Nguyễn Phi Khanh",
+    "date": "2023-02-10"
+  },
+  {
+    "id": 3,
+    "title": "Phân Tích Dữ Liệu Với Python",
+    "content": "Nội dung bài viết về phân tích dữ liệu sử dụng Python...",
+    "topic": "Data Science",
+    "author": "Hoàng Cao Minh",
+    "date": "2023-03-20"
+  },
+  {
+    "id": 4,
+    "title": "Tạo Ứng Dụng Mobile Với Flutter",
+    "content": "Hướng dẫn tạo ứng dụng di động sử dụng Flutter...",
+    "topic": "Mobile App Development",
+    "author": "Lê Hồng Đức",
+    "date": "2023-04-12"
+  },
+  {
+    "id": 5,
+    "title": "Cách Thiết Kế Giao Diện Người Dùng Hiệu Quả",
+    "content": "Bài viết về thiết kế giao diện người dùng...",
+    "topic": "UI/UX Design",
+    "author": "Phạm Thị Lan",
+    "date": "2023-05-05"
+  },
+  {
+    "id": 6,
+    "title": "Lập Trình Game Với Unity",
+    "content": "Hướng dẫn lập trình game sử dụng Unity...",
+    "topic": "Game Development",
+    "author": "Nguyễn Đình Hoàng",
+    "date": "2023-06-18"
+  },
+  {
+    "id": 7,
+    "title": "Cách Quản Lý Dự Án Phần Mềm",
+    "content": "Nội dung về quản lý dự án phần mềm...",
+    "topic": "Software Engineering",
+    "author": "Trương Văn Bình",
+    "date": "2023-07-22"
+  },
+  {
+    "id": 8,
+    "title": "Tìm Hiểu Về Trí Tuệ Nhân Tạo",
+    "content": "Bài viết về trí tuệ nhân tạo và ứng dụng của nó...",
+    "topic": "Artificial Intelligence",
+    "author": "Vũ Thị Hương",
+    "date": "2023-08-15"
+  },
+  {
+    "id": 9,
+    "title": "Kỹ Thuật Lập Trình An Toàn",
+    "content": "Hướng dẫn kỹ thuật lập trình an toàn...",
+    "topic": "Cybersecurity",
+    "author": "Đặng Minh Trí",
+    "date": "2023-09-30"
+  }
+]
